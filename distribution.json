@@ -6,6 +6,7 @@
       "name": "TrialTower-1.21.11 (Minecraft 1.21.11)",
       "description": "TrialTower-1.21.11 Running Minecraft 1.21.11 (Fabric v0.19.3)",
       "version": "1.0.0",
+      "icon": "https://siw0ocra-ctrl.github.io/TTLcheck/server.png",
       "address": "127.0.0.1:25565",
       "minecraftVersion": "1.21.11",
       "mainServer": true,
